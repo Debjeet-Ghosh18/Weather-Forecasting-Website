@@ -9,7 +9,7 @@ Built with simplicity and responsiveness in mind, it leverages the **OpenWeather
 
 ## 🚀 Features
 
-- 🌍 **Current Weather** – Location-based temperature, weather condition, and date..
+- 🌍 **Current Weather** – Location-based temperature, weather condition, and date.
 - 📅 **5-Day Forecast** – Mini-forecasts with icons and dates.
 - 📊 **Weather Highlights** – Air quality index, humidity, pressure, visibility, feels-like temp.
 - 🌅 **Sunrise & Sunset** – Local timings for sun events.
